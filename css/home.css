@@ -1,0 +1,28 @@
+/* style of index page */
+
+.nav-top .nav-link.active {
+    background: #fff;
+    color: #dc3545 !important;
+    border-radius: 3px;
+}
+
+.nav-top .nav-link:hover {
+    opacity: 0.5;
+}
+
+.nav-top .nav-link.active:hover {
+    opacity: 1;
+}
+
+body {
+    background: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+}
+
+.bgFull {
+    background: #000000a3;
+    height: 100vh;
+}
