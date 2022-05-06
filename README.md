@@ -5,4 +5,5 @@
 بينات دخول لوحة التحكم
 
 useradmin=abduallah
+
 password=123
